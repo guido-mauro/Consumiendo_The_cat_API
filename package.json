@@ -1,0 +1,11 @@
+{
+  "name": "cursodeaapirest",
+  "version": "1.0.0",
+  "description": "Curso para subir a github del consumo de \"THE CAT API\" ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guido Mauro",
+  "license": "ISC"
+}
